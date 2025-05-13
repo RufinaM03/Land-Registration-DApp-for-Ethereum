@@ -98,7 +98,7 @@ Unique Identity Commitment Generation (to be used as an input for zkp generation
 
 Home Page
 
-![image](https://github.com/user-attachments/assets/28720c0e-4637-4add-90c9-06509f22c1ee)
+![image](https://github.com/user-attachments/assets/e848d8ef-9dff-4fbd-b702-19abda429b80)
 
 Property Registration
 
