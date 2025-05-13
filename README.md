@@ -174,12 +174,14 @@ We can see that owner address is linked to John Doe's User Profile
 
 
 🛡️ Security
+
 Smart contracts are self-contained and tested
+
 Users interact via MetaMask
+
 ZK Proofs ensure transaction privacy
 
-✨ Contributor
-Rufina M
 
 🌐 Links
+
 [GitHub Repository](https://github.com/RufinaM03/Land-Registration-DApp-for-Ethereum.git)
