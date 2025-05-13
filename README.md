@@ -43,7 +43,7 @@ Land-Registration-DApp/
 │   └── src/                   # React components, APIs, utilities
 └── README.md
 ```
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 1. Clone the Repository
 ```bash
 git clone https://github.com/RufinaM03/Land-Registration-DApp-for-Ethereum.git
@@ -172,16 +172,14 @@ We can see that owner address is linked to John Doe's User Profile
 
 ![image](https://github.com/user-attachments/assets/8bba537b-8504-430f-9999-33db054f9ded)
 
+
 🛡️ Security
 Smart contracts are self-contained and tested
-
 Users interact via MetaMask
-
 ZK Proofs ensure transaction privacy
 
 ✨ Contributor
 Rufina M
 
 🌐 Links
-Frontend hosted on Localhost
-GitHub Repository
+[GitHub Repository](https://github.com/RufinaM03/Land-Registration-DApp-for-Ethereum.git)
