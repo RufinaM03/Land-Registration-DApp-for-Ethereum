@@ -45,8 +45,10 @@ Land-Registration-DApp/
 ```
 ⚙️ Setup Instructions
 1. Clone the Repository
+```powershell
 git clone https://github.com/RufinaM03/Land-Registration-DApp-for-Ethereum.git
 cd Land-Registration-DApp-for-Ethereum
+```
 
 3. Install Dependencies
 Backend
