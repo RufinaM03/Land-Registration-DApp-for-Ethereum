@@ -1,5 +1,3 @@
-# Land-Registration-DApp-for-Ethereum
-
 # 🏞️ Land Registration DApp for Ethereum
 
 A decentralized application (DApp) for secure, transparent, and efficient land registration built on the Ethereum blockchain.
@@ -45,3 +43,53 @@ Land-Registration-DApp/
 │   └── src/                   # React components, APIs, utilities
 └── README.md
 ```
+⚙️ Setup Instructions
+1. Clone the Repository
+git clone https://github.com/RufinaM03/Land-Registration-DApp-for-Ethereum.git
+cd Land-Registration-DApp-for-Ethereum
+
+3. Install Dependencies
+Backend
+cd backend
+npm install
+
+Frontend
+cd ../frontend
+npm install
+
+5. Start Local Blockchain (Ganache)
+Make sure Ganache is running on port 7545 (or modify web3Config.js accordingly).
+
+6. Compile & Deploy Smart Contracts
+cd ../backend
+truffle compile
+truffle migrate --network development
+
+7. Start Backend Server
+node src/index.js
+
+7. Start Frontend
+cd ../frontend
+npm start
+Visit http://localhost:3000 in your browser.
+
+📷 Screenshots
+User Registration	Land Listing	Land Transfer
+		
+
+🛡️ Security
+Smart contracts are self-contained and tested
+
+Users interact via MetaMask
+
+ZK Proofs ensure transaction privacy
+
+✨ Contributor
+Rufina M
+
+📜 License
+This project is licensed under the MIT License.
+
+🌐 Links
+Frontend hosted on Localhost
+GitHub Repository
