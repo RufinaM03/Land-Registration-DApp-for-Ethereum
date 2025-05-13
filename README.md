@@ -45,34 +45,43 @@ Land-Registration-DApp/
 ```
 ⚙️ Setup Instructions
 1. Clone the Repository
-```powershell
+```bash
 git clone https://github.com/RufinaM03/Land-Registration-DApp-for-Ethereum.git
 cd Land-Registration-DApp-for-Ethereum
 ```
 
 3. Install Dependencies
 Backend
+```bash
 cd backend
 npm install
-
+```
 Frontend
+```bash
 cd ../frontend
 npm install
+```
 
 5. Start Local Blockchain (Ganache)
 Make sure Ganache is running on port 7545 (or modify web3Config.js accordingly).
 
 6. Compile & Deploy Smart Contracts
+```bash
 cd ../backend
 truffle compile
 truffle migrate --network development
+```
 
-7. Start Backend Server
+8. Start Backend Server
+```bash
 node src/index.js
+```
 
 7. Start Frontend
+```bash
 cd ../frontend
 npm start
+```
 Visit http://localhost:3000 in your browser.
 
 📷 Screenshots
