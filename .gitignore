@@ -1,0 +1,49 @@
+# Node modules (backend and frontend)
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build and artifacts
+build/
+frontend/build/
+dist/
+.cache/
+
+# Truffle & Hardhat artifacts
+*.log
+*.tsbuildinfo
+*.pid
+*.tmp
+
+# Environment variables
+.env
+
+# zk-SNARK proving keys and large files
+*.zkey
+*.ptau
+*.r1cs
+*.sym
+circom.exe
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled contracts
+*.json
+
+# Ignore OpenZeppelin cache
+.openzeppelin/
+
+# Ignore frontend config artifacts
+webpack.config.js
+
+# Miscellaneous
+coverage/
+coverage.json
+
+# Ignore proof folders if temporary
+zkProof_js/
