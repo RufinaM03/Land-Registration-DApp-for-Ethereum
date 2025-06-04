@@ -6,7 +6,7 @@ A decentralized application (DApp) for secure, transparent, and efficient land r
 
 This DApp enables users to:
 
-- 🧑‍🌾 Register themselves as landowners
+- 🧑‍🌾 Landowner registration
 - 🌍 Register land details securely
 - 🔍 Search for land by ID
 - 💰 Set land for sale and define pricing
